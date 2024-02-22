@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Homework_25</string>
+    <string name="search_by_title">Search By Title</string>
+    <string name="open_bottom_sheet">Open Bottom Sheet</string>
+    <string name="search">Search</string>
+</resources>
